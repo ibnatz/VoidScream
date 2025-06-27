@@ -1,4 +1,4 @@
-## VoidScream — SCREAM INTO THE VOID!
+## SCREAM INTO THE VOID!
 
 This is a minimalist Android app that I built in **Java** for you to pour your brains out uncensored — because you can erase its very traces in just one click!
 
